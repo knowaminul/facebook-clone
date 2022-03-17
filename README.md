@@ -1,9 +1,12 @@
-# Facebook Clone app with React and Firebase
+# Facebook Clone App
+## Project description
 
-Live link: https://facebook-clone-67f64.web.app/
+### Technology: 
+* React
+* Firebase
 
-## Tools
+### Features:
+* Allow users to login with Google.
+* Allow users to create post realtime.
 
-### React
-### Firebase
-### ContextAPI
+### Live link: https://facebook-clone-67f64.web.app/
